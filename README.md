@@ -1,4 +1,4 @@
-![![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/88b87ef0-7494-4cba-8f98-a67dbdac21f9)
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/88b87ef0-7494-4cba-8f98-a67dbdac21f9)
 
 <h1 align="center">Hi 👋, I'm Perugu Adithya</h1>
 <h3 align="center">Passionate Software Engineer dedicated to full-stack development, scalable solutions, and mastering emerging technologies.</h3>
